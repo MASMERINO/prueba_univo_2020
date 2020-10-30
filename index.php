@@ -1,3 +1,7 @@
+
+
 <?php
-echo "HOLA MUNDO";
->?php
+ 
+echo "¡Hola mundo!";
+
+ ?>
